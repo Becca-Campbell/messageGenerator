@@ -14,4 +14,4 @@ const generateMessage = () => {
     return `On a ${condition1} day, a ${condition3} felt incredibly ${condition2} and couldn't help but celebrate. It ran through the fields, enjoying every moment, because nothing made a day better than a little bit of ${condition1} fun!`;
     }
 
-    
+console.log(generateMessage());
